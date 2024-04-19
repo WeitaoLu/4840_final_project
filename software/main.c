@@ -2,6 +2,8 @@
 #include "matrix.h"
 #include <stdio.h>
 #include <stdlib.h>
+#include <string.h>
+#include <math.h>
 
 // Function to load data from a file
 // Function to load data from a CSV file
