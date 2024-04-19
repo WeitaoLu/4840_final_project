@@ -1,6 +1,8 @@
 // matrix.c
 #include "matrix.h"
 #include <math.h>
+#include <stdio.h>
+#include <string.h>
 #include <stdlib.h>
 
 Matrix create_matrix(int rows, int cols) {
