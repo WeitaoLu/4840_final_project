@@ -2,6 +2,8 @@
 #include "fm_model.h"
 #include <float.h> // just use this .h to check isnan, may delete
 #include <math.h>
+#include <stdio.h>
+#include <string.h>
 #include <stdlib.h>
 
 // Helper function to calculate interactions
